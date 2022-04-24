@@ -7,7 +7,7 @@
 
 * Node v14.15.4
 
-* Hardhat 2.6.0
+* Hardhat 2.9.3
 
   
 
