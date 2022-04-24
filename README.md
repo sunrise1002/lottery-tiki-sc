@@ -107,3 +107,6 @@ or
 yarn verify:<local | dev | staging | prod> <contract_address> <input_parameters>
 
 ```
+
+Dealer account private key:
+`e20db0b7ad0921aa082221a5486c64d6b0e4a2749f550485f122ef1d8134f1de`
